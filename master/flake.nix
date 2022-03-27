@@ -11,6 +11,7 @@
   inputs.src-nimrpc-master.ref   = "refs/heads/master";
   inputs.src-nimrpc-master.owner = "rogercloud";
   inputs.src-nimrpc-master.repo  = "nim-rpc";
+  inputs.src-nimrpc-master.dir   = "";
   inputs.src-nimrpc-master.type  = "github";
   
   inputs."msgpack4nim".owner = "nim-nix-pkgs";
